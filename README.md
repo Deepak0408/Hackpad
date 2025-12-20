@@ -30,17 +30,17 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 
 
-
  Bill of Materials (BOM)
-Component	Quantity	Specification	Unit Price (USD)	Total Price (USD)
-PCB	1	Custom Macropad PCB (5×4 matrix)	$5 (incl. ship)	$5
-Key Switches	6	Red Mechanical Switches	$2 each	$12
-Microcontroller	1	Seeed Studio XIAO	$15 (incl. ship)	$15
-Rotary Encoder	1	EC11	$3 (incl. ship)	$3
-USB Cable	1	Type-C	$6 (incl. ship)	$6
-OLED Display	1	0.91-inch OLED	$3 (incl. ship)	$3
-Case & Knob	1	3D-Printed Case + Knob	—	Printing Legion
 
+| Component        | Quantity | Specification                   | Unit Price (USD) | Total Price (USD) |
+|------------------|----------|----------------------------------|------------------|-------------------|
+| PCB              | 1        | Custom Macropad PCB (5×4 matrix) | $5 (incl. ship)  | $5                |
+| Key Switches     | 6        | Red Mechanical Switches          | $2 each          | $12               |
+| Microcontroller  | 1        | Seeed Studio XIAO                | $15 (incl. ship) | $15               |
+| Rotary Encoder   | 1        | EC11                             | $3 (incl. ship)  | $3                |
+| USB Cable        | 1        | Type-C                           | $6 (incl. ship)  | $6                |
+| OLED Display     | 1        | 0.91-inch OLED                   | $3 (incl. ship)  | $3                |
+| Case & Knob      | 1        | 3D Printed Case + Knob           | —                | Printing Legion   |
 
 ## JLCPCB
 <img width="1881" height="954" alt="image" src="https://github.com/user-attachments/assets/62cabfa8-10d0-4c81-ba16-39f72b64990b" />
