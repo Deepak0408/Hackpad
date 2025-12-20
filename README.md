@@ -24,23 +24,22 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 <img width="553" height="690" alt="Screenshot 2025-10-22 230935" src="https://github.com/user-attachments/assets/9cbbf6a4-dcf8-44b5-8ffa-f949ab1d7751" />
 
-<img width="1573" height="897" alt="Assembly 2" src="https://github.com/user-attachments/assets/8a5f8274-9081-4793-93e2-a2e2a4d51f2c" />
 
 
-<img width="1572" height="900" alt="Assembly" src="https://github.com/user-attachments/assets/720bde78-4a93-4030-8b59-8fe0d81453d6" />
+
+
 
 
 
  Bill of Materials (BOM)
-| Component | Quantity | Specification | Unit Price | Total Price |
-| PCB | 5 | Custom macropad (5x4 matrix) | $5  | $5 with shipping | 
-| key Switches | 6 | RED mechanical switches | $12 with shipping  |
-| XIAO | 1 | MIcro controller | $15 with shipping  |
-| Rotary encoder | 1 | EC11 | $3 with shipping  |
-| USB| 1 | Type C | $6 with shipping  |
-|Oled Display| 1 | 0.91 inch | $3 with shipping  |
-| case & knob| 1 | 3D Case | Printing Legion |
-
+Component	Quantity	Specification	Unit Price (USD)	Total Price (USD)
+PCB	1	Custom Macropad PCB (5×4 matrix)	$5 (incl. ship)	$5
+Key Switches	6	Red Mechanical Switches	$2 each	$12
+Microcontroller	1	Seeed Studio XIAO	$15 (incl. ship)	$15
+Rotary Encoder	1	EC11	$3 (incl. ship)	$3
+USB Cable	1	Type-C	$6 (incl. ship)	$6
+OLED Display	1	0.91-inch OLED	$3 (incl. ship)	$3
+Case & Knob	1	3D-Printed Case + Knob	—	Printing Legion
 
 
 ## JLCPCB
@@ -50,8 +49,7 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 
 
-**IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
+**Every thing is too expensive**
 
-**Total Estimated Cost**: `$5 WITH SHIPPING CHARGES INCLUDED`
-I'm only asking for pcb cost as you guys said.
+**Total Estimated Cost**: `$50 WITH SHIPPING CHARGES INCLUDED`
 
