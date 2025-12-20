@@ -1,12 +1,11 @@
  Bill of Materials (BOM)
-| Component | Quantity | Specification | Unit Price | Total Price |
 
-| PCB | 5 | Custom macropad (5x4 matrix) | $5  | $5 with shipping |
- 
-| key Switches | 6 | RED mechanical switches | $12 with shipping  |
-
-| XIAO | 1 | MIcro controller | $15 with shipping  |
-
-| Rotary encoder | 1 | EC11 | $3 with shipping  |
-
-| USB| 1 | Type C | $6 with shipping  |
+| Component        | Quantity | Specification                   | Unit Price (USD) | Total Price (USD) |
+|------------------|----------|----------------------------------|------------------|-------------------|
+| PCB              | 1        | Custom Macropad PCB (5×4 matrix) | $5 (incl. ship)  | $5                |
+| Key Switches     | 6        | Red Mechanical Switches          | $2 each          | $12               |
+| Microcontroller  | 1        | Seeed Studio XIAO                | $15 (incl. ship) | $15               |
+| Rotary Encoder   | 1        | EC11                             | $3 (incl. ship)  | $3                |
+| USB Cable        | 1        | Type-C                           | $6 (incl. ship)  | $6                |
+| OLED Display     | 1        | 0.91-inch OLED                   | $3 (incl. ship)  | $3                |
+| Case & Knob      | 1        | 3D Printed Case + Knob           | —                | Printing Legion   |
