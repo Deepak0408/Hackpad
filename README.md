@@ -28,6 +28,12 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 <img width="1573" height="897" alt="Assembly 2" src="https://github.com/user-attachments/assets/b0545229-6f99-4726-8948-cd6901dc9e94" />
 
+<img width="1272" height="813" alt="Screenshot 2025-12-25 150033" src="https://github.com/user-attachments/assets/e269c51f-be18-4927-abeb-7f1e5038b3df" />
+
+<img width="1293" height="834" alt="Screenshot 2025-12-25 145959" src="https://github.com/user-attachments/assets/e09a00aa-c29f-4560-beaf-44ae4e1f1dfe" />
+
+
+
 
 
 
